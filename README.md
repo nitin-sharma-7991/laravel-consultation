@@ -53,19 +53,19 @@ This project is a comprehensive Consultation Management System built using Larav
 
 
 
-   Usage
+  ##  Usage
    -User Authentication: Access the login and registration pages via /login and /register.
    -Dashboard: Once logged in, users can manage their consultations and profile through the dashboard.
    -Real-time Notifications: Users will receive live updates about their consultations.
 
 
-   Frontend
+   ## Frontend
    The frontend is developed using Laravel Blade templates with Bootstrap for responsive design. All dynamic interactions are handled using jQuery and Laravel Echo for real-time features.
 
-   API Endpoints
+   ## API Endpoints
    The project includes RESTful API endpoints for managing consultations and user profiles. You can explore the API using tools like Postman.
 
-   Authentication
+   ## Authentication
    POST /api/login - User login
    POST /api/register - User registration
    POST /api/logout - User logout
@@ -80,13 +80,13 @@ This project is a comprehensive Consultation Management System built using Larav
    PUT /api/profile - Update user profile
 
 
-   Contributing
+   ## Contributing
    Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-   License
+   ## License
    This project is licensed under the MIT License.
 
-   Acknowledgments
+   ## Acknowledgments
    -Laravel Framework
    -Bootstrap for the UI
    -Pusher for real-time notifications
