@@ -42,6 +42,7 @@ This project is a comprehensive Consultation Management System built using Larav
 
    Copy the `.env.example` file to `.env`
    cp .env.example .env
+
    Update the .env file with your database, mail, and Pusher credentials.
 
 4. Database Migration
