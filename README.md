@@ -17,7 +17,7 @@ This project is a comprehensive Consultation Management System built using Larav
 
 ### Prerequisites
 
-- PHP >= 8.0
+- PHP >= 8.1
 - Composer
 - Node.js & npm
 - MySQL or any other supported database
