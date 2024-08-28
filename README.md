@@ -66,18 +66,18 @@ This project is a comprehensive Consultation Management System built using Larav
    The project includes RESTful API endpoints for managing consultations and user profiles. You can explore the API using tools like Postman.
 
    ## Authentication
-   POST /api/login - User login
-   POST /api/register - User registration
-   POST /api/logout - User logout
+   - **POST /api/login - User login
+   - **POST /api/register - User registration
+   - **POST /api/logout - User logout
    Consultations
-   GET /api/consultations - List all consultations
-   POST /api/consultations - Create a new consultation
-   GET /api/consultations/{id} - Retrieve a specific consultation
-   PUT /api/consultations/{id} - Update a consultation
-   DELETE /api/consultations/{id} - Delete a consultation
+   - **GET /api/consultations - List all consultations
+   - **POST /api/consultations - Create a new consultation
+   - **GET /api/consultations/{id} - Retrieve a specific consultation
+   - **PUT /api/consultations/{id} - Update a consultation
+   - **DELETE /api/consultations/{id} - Delete a consultation
    User Profile
-   GET /api/profile - Retrieve user profile
-   PUT /api/profile - Update user profile
+   - **GET /api/profile - Retrieve user profile
+   - **PUT /api/profile - Update user profile
 
 
    ## Contributing
