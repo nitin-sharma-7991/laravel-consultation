@@ -28,5 +28,5 @@ This project is a comprehensive Consultation Management System built using Larav
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/consultation-management.git
+   git clone https://github.com/nitin-sharma-7991/laravel-consultation.git
    cd consultation-management
